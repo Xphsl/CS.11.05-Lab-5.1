@@ -6,7 +6,7 @@ You should pass all of the tests in the ArrayUtilityTester class that has been p
 ALL methods should be contained within a class called ArrayUtility.
 ALL methods in this class should be declared as static. 
 Do not use or import java.util.Arrays! 
-Do not use the Math class! 
+Do not use the Math class!
 
 1. Method called print that prints out each element in an array of integers on a single line.
 The format will be: 12, 34, 67, 89, 91, 34
